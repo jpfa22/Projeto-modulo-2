@@ -1,0 +1,78 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do formulário */
+  form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="password"],
+  select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  /* Estilos da barra de busca */
+  .search-bar {
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .search-bar input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  .search-bar button {
+    width: 20%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 0 3px 3px 0;
+    cursor: pointer;
+  }
+  
+  /* Estilos das mensagens */
+  .message {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .success {
+    background-color: #DFF2BF;
+    color: #4F8A10;
+  }
+  
+  .error {
+    background-color: #FFBABA;
+    color: #D8000C;
+  }
