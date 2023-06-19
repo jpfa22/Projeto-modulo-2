@@ -1,0 +1,1 @@
+Essa aplicação tem o nome de "CatalogoMed" e foi criado para que pacientes marquem suas consultas com seus médicos. Tem uma interface intuitiva, a qual permite a pesquisa de médicos, a marcação da consulta, o pagamento e a solicitação da preescrição médica.
